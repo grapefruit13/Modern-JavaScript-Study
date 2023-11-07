@@ -1,5 +1,5 @@
 # Modern-JavaScript-Study
-<a href="https://www.yes24.com/Product/Goods/92742567"> <img src="https://image.yes24.com/goods/92742567/XL"width="70%" height="70%" alt="book-cover"> </a>
+<a href="https://www.yes24.com/Product/Goods/92742567"> <img src="https://image.yes24.com/goods/92742567/XL" width="70%" height="70%" alt="book-cover"> </a>
 
 # 스터디 소개
 모던 자바스크립트 Deep Dive를 읽고, 서로의 의견을 나누는 스터디입니다.
