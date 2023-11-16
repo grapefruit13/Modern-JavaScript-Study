@@ -81,5 +81,3 @@ alert(firstName ?? lastName ?? nickName ?? '익명의 사용자'); // 바이올�
 주의할 점은, `??` 연산자는 `&&` 나 `||` 연산자와 함께 사용할 수 없다는 것이다.
 
 함께 사용하고자 한다면 반드시 괄호`()` 로 구분해 주어야 한다.
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/d653b5a9-182a-4a2b-9ac0-564426aa7a25/2a1b93a8-ac39-43c2-b2bd-8ffd0df34cb5/Untitled.png)
